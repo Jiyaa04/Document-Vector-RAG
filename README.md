@@ -18,5 +18,5 @@ This repository contains a Retrieval-Augmented Generation (RAG) workflow built w
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/Langflow-RAG-Bot.git](https://github.com/yourusername/Langflow-RAG-Bot.git)
-   cd Langflow-RAG-Bot
+   git clone [https://github.com/Jiyaa04/Document-Vector-RAG.git](https://github.com/Jiyaa04/Document-Vector-RAG.git)
+   cd Document-Vector-RAG
